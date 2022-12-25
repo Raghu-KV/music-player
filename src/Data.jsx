@@ -6,7 +6,7 @@ function Data() {
       id: uuidv4(),
       name: "Someone New",
       artist: "pop lil",
-      active: false,
+      active: true,
       cover:
         "https://chillhop.com/wp-content/uploads/2022/10/41619d032f80a089e2c99e98953d441fd061ef12-1024x1024.jpg",
       audio: "https://mp3.chillhop.com/serve.php/?mp3=47641",
